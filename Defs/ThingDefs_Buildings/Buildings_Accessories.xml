@@ -65,6 +65,7 @@
 				<compClass>SK.CompRestrictedPlacement</compClass>
 			</li>
 		</comps>
+		 <specialDisplayRadius>6</specialDisplayRadius>
 		<constructionSkillPrerequisite>2</constructionSkillPrerequisite>
 	</ThingDef>
 	
@@ -123,6 +124,7 @@
 		<leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
 		<rotatable>false</rotatable>
 		<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
+		 <specialDisplayRadius>9</specialDisplayRadius>
 	</ThingDef>
 	
 	
