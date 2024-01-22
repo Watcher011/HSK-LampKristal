@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WallLights -->
+
+  <KristalWallLamp.label>Настенная светокаменная лампа</KristalWallLamp.label>
+  <KristalWallLamp.description>Эта потрясающая настенная лампа сделана из ограненного светящегося камня, имеющего форму  кристалла и излучающего яркий свет.</KristalWallLamp.description>
+
+  <CeilingKristal.label>Потолочная светокаменная лампа</CeilingKristal.label>
+  <CeilingKristal.description>Эта потрясающая потолочная лампа сделана из ограненного светящегося камня, имеющего форму  кристалла и излучающего яркий свет.</CeilingKristal.description>
+
+
+</LanguageData>

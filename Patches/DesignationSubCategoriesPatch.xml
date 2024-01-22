@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Defs>
-
-
-
+﻿<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs</xpath>
+		<value>
 	<ArchitectSense.DesignationSubCategoryDef>
 		<defName>SubCategory_Lights</defName>
 		<label>fueled lights</label>
@@ -22,9 +21,6 @@
 		<designationCategory>Accessories</designationCategory>
 		<debug>false</debug>
 	</ArchitectSense.DesignationSubCategoryDef>
-
-
-</Defs>
-
-
-
+		</value>
+	</Operation>
+</Patch>

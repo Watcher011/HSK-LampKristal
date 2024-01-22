@@ -5,8 +5,8 @@
 
 <ThingDef ParentName="SK_LampBase">
 		<defName>KristalWallLamp</defName>
-		<label>Настенная лампа из светокамня</label>
-		<description>Настенная лампа из светокамня,дорого богато.</description>
+		<label>Glowstone wall lamp</label>
+		<description>Wall lamp made of glowstone, expensive and rich.</description>
 		<thingClass>Building</thingClass>
 		<graphicData>
 			<texPath>Things/Building/Furniture/Lights/WallKristal</texPath>
@@ -74,7 +74,7 @@
 	
 	<ThingDef ParentName="SK_LampBase">
 		<defName>CeilingKristal</defName>
-		<label>Кристальная лампа</label>
+		<label>Glowstone сeiling lamp</label>
 		<thingClass>SK.Building_Lamp</thingClass>
 		<graphicData>
 			<texPath>Things/Building/Furniture/Lights/CeilingKristal</texPath>
@@ -95,7 +95,7 @@
 			<StyleDominance MayRequire="Ludeon.RimWorld.Ideology">3</StyleDominance>
 		</statBases>
 		<tickerType>Rare</tickerType>
-		<description>Потолочная кристальная лампа.</description>
+		<description>Ceiling glowstone lamp.</description>
 		<costList>
 			<Glass>5</Glass>
 			<ComponentIndustrial>2</ComponentIndustrial>
